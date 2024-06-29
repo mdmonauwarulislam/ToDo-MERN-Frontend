@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "https://todo-mern-backend-1.onrender.com";
+const baseUrl = "https://todo-mern-backend-bsxq.onrender.com";
 
 const getAllToDo = (setToDo) => {
   axios
